@@ -25,13 +25,16 @@ Question 4:
 Across the United States, how have emissions from coal combustion-related sources changed from 1999-2008?
 
 Answer:
-While there was not much decrease until 2005 the 2008 records show a significant drop in PM2.5 emitted by coal combustion.
+While there was a small increase from 1999 to 2005, the 2008 records show a significant drop in PM2.5 emitted by coal combustion.
 
 
 Question 5:
 How have emissions from motor vehicle sources changed from 1999-2008 in Baltimore City?
 
 Answer:
+A choice was made to limit the analysis to road-bound vehicles as they might constitute the most relevant emission source in a city.
+There was a big drop in PM2.5 emitted by these road-bound motor vehicles in Baltimore from 1999 to 2002. 
+Almost no decrease was measured in 2005 with some more decrease in 2008.
 
 
 Question 6:
