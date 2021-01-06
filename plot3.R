@@ -12,6 +12,6 @@ png(filename = "plot3.png")
 
 ggplot(balt2, aes(year, total)) +
         geom_point() +
-        facet_grid(rows = vars(type)) + 
+        facet_grid(rows = vars(type))
 
 dev.off()
