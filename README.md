@@ -41,4 +41,4 @@ Question 6:
 Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions?
 
 Answer:
-Baltimore has seen a steady decline in PM2.5 emission over the years. In relative terms changes were greater than in LA. Los Angeles has seen more volatile emissions in abolute terms, less so in relative terms. 
+Baltimore has seen a steady decline in PM2.5 emission over the years. In relative terms changes were greater than in LA. Los Angeles has seen more volatile emissions in absolute terms, less so in relative terms. 
