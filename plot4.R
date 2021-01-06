@@ -24,7 +24,7 @@ coal_combustion <- NEI %>%
         group_by(year) %>%
         summarise(total = sum(Emissions) / 1000)
 
-#png(filename = "plot4.png", width = 720)
+png(filename = "plot4.png", width = 720)
 
 barplot(coal_combustion$total, 
         names.arg = c("1999", "2002", "2005", "2008"),
@@ -32,4 +32,4 @@ barplot(coal_combustion$total,
         main = "Total amount of PM2.5 emitted from coal combustion-related sources per year",
         sub = "Source: Environmental Protection Agency")
 
-# dev.off()
+dev.off()
