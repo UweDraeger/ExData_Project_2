@@ -15,7 +15,7 @@ vessels <- str_which(SCC$EI.Sector, "Vessels") # 44 obs
 coal_powered <- str_which(SCC$SCC.Level.Three, "Coal") # 172 obs
 ships <- intersect(vessels, coal_powered) # 5 obs
 
-coal <- union(fuel, vessels) # 143 obs
+coal <- union(fuel, ships) # 104 obs
 
 x <- SCC[coal,1]
 

@@ -25,7 +25,7 @@ Question 4:
 Across the United States, how have emissions from coal combustion-related sources changed from 1999-2008?
 
 Answer:
-While there was a small increase from 1999 to 2005, the 2008 records show a significant drop in PM2.5 emitted by coal combustion.
+While there were only small changes between 1999 and 2005, the 2008 records show a significant drop in PM2.5 emitted by coal combustion.
 
 
 Question 5:
